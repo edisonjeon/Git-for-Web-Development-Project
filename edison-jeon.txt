@@ -57,9 +57,9 @@ Codepen questions and MVP project. https://codepen.io/edisonthe2nd/pen/YzpGqQW
     28. How do I add a 1px border around my div that is dotted and black?
     border:1px dotted black;
     29. How do I select everything on the page? 
-    body
+    *
     30. How do I write a comment in CSS?
-    use *
+    use /*
     31. How do I find out what file I am in, when I am using the command line? 
     whereami
     32. Using the command line - how do I see a list of files/folders in my current folder?
@@ -78,13 +78,13 @@ Codepen questions and MVP project. https://codepen.io/edisonthe2nd/pen/YzpGqQW
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
-    Not too sure.
+    Inline can be adjusted, blocks are stuck in a block positioning.
     2. What happens when an element is positioned absolutely? 
     I'm assuming that regardless of what happens to the page, the position of that element does not change.
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
-    margin auto?
+    margin auto
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
-    div, span, img?
+    div, span, img
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them?
     by grouping them in a class?
 
